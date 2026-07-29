@@ -23,7 +23,7 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 # ----------------------------------------------------------------------
 DB_NAME = "sample_store"
 DB_USER = "postgres"
-DB_PASSWORD = "Ameena12"   # change to your actual password
+DB_PASSWORD = "*********"   # change to your actual password
 DB_HOST = "localhost"
 DB_PORT = "5432"
 
